@@ -4,7 +4,7 @@
 
 ### Учебен план
 <pre>
-  - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/sem1">Семинар 01</a> - Увод. Типове данни. Основни аритметични операции. Вход и изход
+  - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar01">Семинар 01</a> - Увод. Типове данни. Основни аритметични операции. Вход и изход
   - <a href="#">Семинар 02</a> - Условни оператори и оператори за цикъл
 </pre>
 
