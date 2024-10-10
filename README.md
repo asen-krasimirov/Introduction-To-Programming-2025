@@ -8,7 +8,8 @@
   - <a href="#">Семинар 02</a> - Условни оператори и оператори за цикъл
 </pre>
 
-Семинарните упражнения се водят по записките на Георги Терзиев, които може да намерите <a href="https://github.com/GeorgiTerziev02/Introduction_to_programming_FMI/tree/main">тук</a>.
+> [!NOTE]
+> Семинарните упражнения се водят по записките на Георги Терзиев, които може да намерите <a href="https://github.com/GeorgiTerziev02/Introduction_to_programming_FMI/tree/main">тук</a>.
 
 ### Контакти
 Добромир Пеев: 
