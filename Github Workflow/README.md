@@ -1,59 +1,28 @@
-## Github workflow
+## Github Workflow Simplified
 
-*Навсякъде, където пише justSvetoslavov , си представете, че пише asen-krasimirov**:D***
-1. Fork the repository 
-    - [How to fork a repository.](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+#### 1. Fork   
+- 1.1. Отваряте репозиторито в GitHub и натискате Fork.
+![fetch origin](images-2/1.png)
 
-2. Clone the repository on your local machine 
-    - [How to clone a repository.](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+- 1.2. Създавате fork.
+![fetch origin](images-2/2.png)
+- 1.3. Копирате линка за клониране на fork-а, който създадохте.
+![fetch origin](images-2/3.png)
 
-    - In GitHub desktop - Repository -> Repository settings... -> Fork behavior -> select To contribute to the parent repository
-    ![repo menu](images/repository-settings-menu.png)
-    ![repo-settings](images/repository-fork-settings.png)
+- 1.4. Избирате място на локалната си машина, на което искате да съхранявате fork-а, и отваряте Command Prompt-а.
+![fetch origin](images-2/4.png)
 
+#### 2. Clone
+- 2.1. Използвайте командата <b>git clone \<url\></b> за да копирате fork-а на локалната си машина. Където <b>url</b> e линкът, който копирахте в 1.3.
+![fetch origin](images-2/5.png)
 
-3. Fetch origin
-    - ![fetch origin](images/fetch-origin.png)
+- 2.1. Правите промени по репото като главно ще качвате задачи, които сте решили като ги копирате от лакалната си машните в съответната папка във fork-ът, който току-що клонирахте.
+![fetch origin](images-2/6.png)
+След като направите промени за улеснение може да проверите какво сте проверили с командата <b>git status</b>. След като сте готови с направените промени можете да преминете към избиране по кои файлове да качите промените. Това става с командата <b>git add \<files_to_add\></b> като избирате кои файлове да отбележите за качване. Следва командата <b>git commit -m "\<message\>"</b> (съобщението е задължително), с която финализирате своите промени. Последно пишете командата <b>git push</b>, с която качвате промените.
 
-4. Create a branch 
-    - You should create branch for each **3 tasks**.
-    - The branch should be created from the master branch of the original repository. In this way you will always have the latest changes .
-    - [About branches.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
-    - [How to create branch.](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches#creating-a-branch)
-
-4. Add a solution for a task
-    - Create a cpp file for each task.
-    - **The name of the file should be TaskXX.cpp where XX is the number of the task**<br> e.g. Task01.cpp, Task12.cpp etc. 
-    - Copy your solution into the file.
-
-5. Commit solution to a task
-    - Commit the file for the task.
-    - **Each task should be in seperate commit.**
-    - Repeat step 5. and 6. until you have 3 tasks in the new branch. <br />
-      Then create a new branch and start from step 4.
-    - [About commits.](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#about-commits)
-
-7. Open PR to the original repository to the master branch
-    - [How to create pull request.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-    - The pull request should request to merge the changes of your branch in the fork to the master branch of the original repositor.
-    - **The title of the Pull Request should be:**
-        ```
-        Pract.\<number\>: Add \<first task number\> - \<last task number\> | \<name\>
-        
-        Example:
-        Pract.03: Add 01-03 | John Doe
-        ```
-    - **The description of the pull Request should be**
-        ```
-        \<name\> \<lastname\>
-        \<major\> \<group\> \<fn\>
-
-        Example:
-        John Doe 
-        SI 2 2MI0600192
-        ```
-
-
-| :boom: **DANGER**|
-|:-----------------|
-| ***If a pull request has more than 3 tasks or the title or description are not in the format described above, the PR will be rejected and will not be reviewed.***|
+#### 3. Pull Request
+- 3.1 Върнете се на fork-а си в GitHub и следвайте инструкциите:
+![fetch origin](images-2/7.png)
+![fetch origin](images-2/8.png)
+![fetch origin](images-2/9.png)
+Важно е да отбележите номера на практикума, на чиито задачи са решенията както и своето име в името на pull request-а. Всичко останало ние можем да коригираме в последствие да ? съвпада със структурата на репозиторито.
