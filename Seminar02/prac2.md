@@ -34,7 +34,7 @@ Git basics (using the cmd) https://git-scm.com/book/en/v2/Git-Basics-Getting-a-G
 
 Вход:
 ```c++
-Result: 41%
+Result: 41
 ```
 
 Изход:
