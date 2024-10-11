@@ -5,11 +5,13 @@
 ### Учебен план
 <pre>
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar01">Семинар 01</a> - Увод. Типове данни. Основни аритметични операции. Вход и изход
-  - <a href="#">Семинар 02</a> - Условни конструкции
+  - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar02">Семинар 02</a> - Условни конструкции
 </pre>
 
 > [!NOTE]
-> Семинарните упражнения се водят по записките на Георги Терзиев, които може да намерите <a href="https://github.com/GeorgiTerziev02/Introduction_to_programming_FMI/tree/main">тук</a>.
+> Записки от упражнения може да намерите в съответната папка за седмицата.
+
+> Записки от 2023-2024 може да намерите <a href="https://github.com/GeorgiTerziev02/Introduction_to_programming_FMI/tree/main">тук</a>. Упражнения, водени от Георги Терзиев.
 
 ### Контакти
 Добромир Пеев: 
