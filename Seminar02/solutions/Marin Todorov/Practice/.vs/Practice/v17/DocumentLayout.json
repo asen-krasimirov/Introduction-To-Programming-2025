@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD4EAF0-BB6C-43AD-80E7-434D33EF330E}|SixthTask\\SixthTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\SixthTask\\SixthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCD4EAF0-BB6C-43AD-80E7-434D33EF330E}|SixthTask\\SixthTask.vcxproj|solutionrelative:SixthTask\\SixthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5833477-22B5-4831-9E77-E148835E5A5E}|EightTask\\EightTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\EightTask\\EightTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5833477-22B5-4831-9E77-E148835E5A5E}|EightTask\\EightTask.vcxproj|solutionrelative:EightTask\\EightTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4943471-DEE1-465B-AD86-F97006918C98}|EleventhTask\\EleventhTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\EleventhTask\\EleventhTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4943471-DEE1-465B-AD86-F97006918C98}|EleventhTask\\EleventhTask.vcxproj|solutionrelative:EleventhTask\\EleventhTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFD3526-E89D-40B0-A9C1-99B310B77C76}|ThirteenthTask\\ThirteenthTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\ThirteenthTask\\ThirteenthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCFD3526-E89D-40B0-A9C1-99B310B77C76}|ThirteenthTask\\ThirteenthTask.vcxproj|solutionrelative:ThirteenthTask\\ThirteenthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE72D83B-7EA9-46FA-A6E6-94B7006C2DB4}|NinthTask\\NinthTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\NinthTask\\NinthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE72D83B-7EA9-46FA-A6E6-94B7006C2DB4}|NinthTask\\NinthTask.vcxproj|solutionrelative:NinthTask\\NinthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CCBDD9-C62F-4E5B-8A9C-873EEA2E3800}|TwelfthTask\\TwelfthTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\TwelfthTask\\TwelfthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0CCBDD9-C62F-4E5B-8A9C-873EEA2E3800}|TwelfthTask\\TwelfthTask.vcxproj|solutionrelative:TwelfthTask\\TwelfthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC652CB1-233B-422E-8552-23886174A738}|SeventhTask\\SeventhTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\SeventhTask\\SeventhTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC652CB1-233B-422E-8552-23886174A738}|SeventhTask\\SeventhTask.vcxproj|solutionrelative:SeventhTask\\SeventhTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA46F7-F292-40CD-96A0-2512ECF0536C}|TenthTask\\TenthTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\TenthTask\\TenthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05DA46F7-F292-40CD-96A0-2512ECF0536C}|TenthTask\\TenthTask.vcxproj|solutionrelative:TenthTask\\TenthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62D3960-9B5C-4F35-B78B-EB80EB60F193}|FifthTask\\FifthTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\FifthTask\\FifthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D62D3960-9B5C-4F35-B78B-EB80EB60F193}|FifthTask\\FifthTask.vcxproj|solutionrelative:FifthTask\\FifthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC20369-597D-4CE9-9501-837B70BDB751}|SecondTask\\SecondTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\SecondTask\\SecondTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECC20369-597D-4CE9-9501-837B70BDB751}|SecondTask\\SecondTask.vcxproj|solutionrelative:SecondTask\\SecondTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0570539B-7484-4811-844A-CB705EA8D60F}|ThirdTask\\ThirdTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\ThirdTask\\ThirdTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0570539B-7484-4811-844A-CB705EA8D60F}|ThirdTask\\ThirdTask.vcxproj|solutionrelative:ThirdTask\\ThirdTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E02CEB-94CB-4DF3-86CE-E7130B7AF18C}|FourthTask\\FourthTask.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\FourthTask\\FourthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03E02CEB-94CB-4DF3-86CE-E7130B7AF18C}|FourthTask\\FourthTask.vcxproj|solutionrelative:FourthTask\\FourthTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EA0903-1C10-41E0-9AF2-A5922711C9F0}|Practice\\Practice.vcxproj|C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05EA0903-1C10-41E0-9AF2-A5922711C9F0}|Practice\\Practice.vcxproj|solutionrelative:Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThirteenthTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\ThirteenthTask\\ThirteenthTask.cpp",
+              "RelativeDocumentMoniker": "ThirteenthTask\\ThirteenthTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\ThirteenthTask\\ThirteenthTask.cpp",
+              "RelativeToolTip": "ThirteenthTask\\ThirteenthTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:42:49.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TwelfthTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\TwelfthTask\\TwelfthTask.cpp",
+              "RelativeDocumentMoniker": "TwelfthTask\\TwelfthTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\TwelfthTask\\TwelfthTask.cpp",
+              "RelativeToolTip": "TwelfthTask\\TwelfthTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:35:03.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EleventhTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\EleventhTask\\EleventhTask.cpp",
+              "RelativeDocumentMoniker": "EleventhTask\\EleventhTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\EleventhTask\\EleventhTask.cpp",
+              "RelativeToolTip": "EleventhTask\\EleventhTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:31:47.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TenthTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\TenthTask\\TenthTask.cpp",
+              "RelativeDocumentMoniker": "TenthTask\\TenthTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\TenthTask\\TenthTask.cpp",
+              "RelativeToolTip": "TenthTask\\TenthTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:26:33.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NinthTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\NinthTask\\NinthTask.cpp",
+              "RelativeDocumentMoniker": "NinthTask\\NinthTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\NinthTask\\NinthTask.cpp",
+              "RelativeToolTip": "NinthTask\\NinthTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:17:39.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EightTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\EightTask\\EightTask.cpp",
+              "RelativeDocumentMoniker": "EightTask\\EightTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\EightTask\\EightTask.cpp",
+              "RelativeToolTip": "EightTask\\EightTask.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:12:24.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeventhTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\SeventhTask\\SeventhTask.cpp",
+              "RelativeDocumentMoniker": "SeventhTask\\SeventhTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\SeventhTask\\SeventhTask.cpp",
+              "RelativeToolTip": "SeventhTask\\SeventhTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:08:15.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SixthTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\SixthTask\\SixthTask.cpp",
+              "RelativeDocumentMoniker": "SixthTask\\SixthTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\SixthTask\\SixthTask.cpp",
+              "RelativeToolTip": "SixthTask\\SixthTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:02:51.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FifthTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\FifthTask\\FifthTask.cpp",
+              "RelativeDocumentMoniker": "FifthTask\\FifthTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\FifthTask\\FifthTask.cpp",
+              "RelativeToolTip": "FifthTask\\FifthTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:00:02.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FourthTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\FourthTask\\FourthTask.cpp",
+              "RelativeDocumentMoniker": "FourthTask\\FourthTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\FourthTask\\FourthTask.cpp",
+              "RelativeToolTip": "FourthTask\\FourthTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T11:51:49.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThirdTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\ThirdTask\\ThirdTask.cpp",
+              "RelativeDocumentMoniker": "ThirdTask\\ThirdTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\ThirdTask\\ThirdTask.cpp",
+              "RelativeToolTip": "ThirdTask\\ThirdTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T11:49:22.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecondTask.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\SecondTask\\SecondTask.cpp",
+              "RelativeDocumentMoniker": "SecondTask\\SecondTask.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\SecondTask\\SecondTask.cpp",
+              "RelativeToolTip": "SecondTask\\SecondTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T11:39:32.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Practice.cpp",
+              "DocumentMoniker": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\Practice\\Practice.cpp",
+              "RelativeDocumentMoniker": "Practice\\Practice.cpp",
+              "ToolTip": "C:\\Users\\Marin\\Documents\\University\\Introduction to programming\\Practice\\11.10.2024\\Practice\\Practice\\Practice.cpp",
+              "RelativeToolTip": "Practice\\Practice.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T11:32:34.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
