@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikto\\source\\repos\\ConsoleApplication1\\YouTubeTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ABB41C-7DFF-4C30-96A0-BF57D3FD9DF8}|YouTubeTutorial\\YouTubeTutorial.vcxproj|C:\\Users\\vikto\\source\\repos\\ConsoleApplication1\\YouTubeTutorial\\YouTubeTutorial\\YouTubeTutorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2ABB41C-7DFF-4C30-96A0-BF57D3FD9DF8}|YouTubeTutorial\\YouTubeTutorial.vcxproj|solutionrelative:YouTubeTutorial\\YouTubeTutorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YouTubeTutorial.cpp",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\ConsoleApplication1\\YouTubeTutorial\\YouTubeTutorial\\YouTubeTutorial.cpp",
+              "RelativeDocumentMoniker": "YouTubeTutorial\\YouTubeTutorial.cpp",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\ConsoleApplication1\\YouTubeTutorial\\YouTubeTutorial\\YouTubeTutorial.cpp",
+              "RelativeToolTip": "YouTubeTutorial\\YouTubeTutorial.cpp",
+              "ViewState": "AgIAAJcBAABAQDPy6dERwJIBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T22:51:54.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
