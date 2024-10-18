@@ -1,1 +1,154 @@
+// firstapp.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    //1
+   /* cout << "Oh what\na happy day!\nOh yes,\nwhat a happy day!";*/
+
+    //2
+    //double a, b; cin >> a >> b;
+    //cout << a * b;
+
+    //3
+    /*double lv; cin >> lv;
+    double dollars = lv * 0.56;
+    double euros = lv * 0.51;
+    cout << "Converted to dollars: " << dollars << "\nConverted to euros : " << euros << ".";*/
+
+    //4
+   /* cout << "Please enter the length of the first side: ";
+    double a; cin >> a;
+    cout << "Please enter the length of the first side: ";
+    double b; cin >> b;
+    cout << "The area of the rectangle is: " << a * b;*/
+
+    //5
+   /* double a; cin >> a;
+    double b; cin >> b;
+    bool res = a < b;
+    cout << res;*/
+
+    //6
+    /*int a; cin >> a;
+    int b; cin >> b;
+    cout << "Remainder: "<<(a % b);*/
+
+    //7
+   /* cout << "Apples: ";
+    int a; cin >> a;
+    cout << "Pears: ";
+    int p; cin >> p;
+    cout << "Bananas: ";
+    int b; cin >> b;
+
+    cout << "Pesho, don't forget to buy " << a << " apples" << ", " << p << " pears and " << b << " bananas!"; */
+
+    //8
+    /*cout << "Radius: ";
+    double r; cin >> r;
+    double p = 3.14159265;
+    double c = 2 * p * r;
+    double s = p * r * r;
+    cout << "C: " << c;
+    cout << "S: " << s;*/
+
+    //9
+    //cout << "a: "; 
+    //double a; cin >> a;
+    //cout << "b: ";
+    //double b; cin >> b;
+    //cout << "c: ";
+    //double c; cin >> c;
+    //cout << a << "x2+" << b << "x+" << c;
+    //int discr = b * b - 4 * a * c;
+    //double x1 = (-b + sqrt(discr)) / (2 * a);
+    //double x2= (-b - sqrt(discr)) / (2 * a);
+    //cout << "\nD: " << discr << "\nx1: " << x1 << "\nx2: " << x2;
+
+    //10
+    /*cout << "a: ";
+    int a; cin >> a;
+    cout << "b: ";
+    int b; cin >> b;
+    int c = a;
+    a = b;
+    b = c;
+    cout << "newA: " << a;
+    cout << "\nnewB: " << b;*/
+
+    //cout << "a: ";
+    //int a; cin >> a; //1
+    //cout << "b: ";
+    //int b; cin >> b; //2
+    //a = a + b; //a=3;
+    //b = a - b; //b=2;
+    //a -= b;
+    //cout << "newA: " << a;
+    //cout << "newB: " << b;
+
+    //11
+    /*int a; cin >> a;
+    int b; cin >> b;
+
+    cout << (a > b) * b + (a <= b) * a;*/
+
+    //12
+    //cout << "Insert seconds: ";
+    //int seconds; cin >> seconds;
+
+    //int minutes = seconds / 60;
+    //seconds -= (minutes * 60);
+    //seconds %= 60;
+
+    //int hours = minutes / 60;
+    //minutes -= (hours * 60);
+    //minutes %= 60;
+
+    //int days = hours / 24;
+    //hours -= (days * 24);
+    //days %= 24;
+
+    //cout << "Days: " << days << "\n";
+    //cout << "Hours: " << hours << "\n";
+    //cout << "Minutes: " << minutes<<"\n";
+    //cout << "Seconds: " << seconds;
+
+    //13
+    /*cout << "First point (x,y) \nx:";
+    double x1; cin >> x1;
+    cout << "\ny: ";
+    double y1; cin >> y1;
+
+    cout << "Second point (x,y) \nx:";
+    double x2; cin >> x2;
+    cout << "\ny: ";
+    double y2; cin >> y2;
+
+    double newX =x2 - x1;
+    double newY = y2 - y1;
+
+    double res =round(sqrt(newX*newX+(newY*newY)));
+    cout << "Razstoqnie: "<<res;*/
+
+    //14
+    cout << "Enter a number: ";
+    int n; cin >> n;
+    n = (n + 1) * n / 2;
+    cout <<"Sum of all numbers to n is: "<<n;
+}
+
+// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
+// Debug program: F5 or Debug > Start Debugging menu
+
+// Tips for Getting Started: 
+//   1. Use the Solution Explorer window to add/manage files
+//   2. Use the Team Explorer window to connect to source control
+//   3. Use the Output window to see build output and other messages
+//   4. Use the Error List window to view errors
+//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
+//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
 
