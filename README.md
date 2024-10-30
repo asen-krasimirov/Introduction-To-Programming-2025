@@ -6,6 +6,8 @@
 <pre>
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar01">Семинар 01</a> - Увод. Типове данни. Основни аритметични операции. Вход и изход
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar02">Семинар 02</a> - Условни конструкции
+  - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar03">Семинар 03</a> - Оператори за цикъл
+  - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar04">Семинар 04</a> - Функции. Oператор return.
 </pre>
 
 > [!NOTE]
