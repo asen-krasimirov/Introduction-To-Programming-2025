@@ -168,7 +168,7 @@ int main()
 	//cin >> x2 >> y2;
 
 	//double distance = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
-	//cout << distance;
+	//cout << (ceil(distance * 100.0) / 100.0);
 
 	//Zad_14
 	//int n;
