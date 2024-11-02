@@ -3,32 +3,32 @@
 #include <iostream>
 using namespace std;
 
-bool isPrime(int num) {
+//bool isPrime(int num) {
+//
+//	for (int i = 2; i < num / 2; i++)
+//	{
+//
+//		if (num % i == 0) {
+//
+//			return false;
+//		}
+//	}
+//
+//	return true;
+//}
 
-	for (int i = 2; i < num / 2; i++)
-	{
-
-		if (num % i == 0) {
-
-			return false;
-		}
-	}
-
-	return true;
-}
-
-bool isRightTriangle(int a, int b, int c) {
-
-	if ((a + b > c) && (b + c > a) && (a + c > b)) {
-
-		if (pow(a, 2) + pow(b, 2) == pow(c, 2)) {
-
-			return true;
-		}
-	}
-
-	return false;
-}
+//bool isRightTriangle(int a, int b, int c) {
+//
+//	if ((a + b > c) && (b + c > a) && (a + c > b)) {
+//
+//		if (pow(a, 2) + pow(b, 2) == pow(c, 2)) {
+//
+//			return true;
+//		}
+//	}
+//
+//	return false;
+//}
 
 int main()
 {
@@ -579,6 +579,85 @@ int main()
 		}
 
 		cout << "\n";
+	}*/
+
+
+	// Zad_21
+
+
+	// Zad_22
+
+	// A)
+
+	//int n;
+	//cin >> n;
+
+	//int minusCounter = (n * 2) - 1;
+	//int plusCounter = 1;
+
+	//for (int row = 1; row <= n; row++)
+	//{
+	//	int previousNum = row;
+
+	//	for (int colm = 1; colm <= n; colm++)
+	//	{
+
+	//		if (colm == 1) {
+
+	//			cout << row << " ";
+
+	//		}
+	//		else {
+
+	//			if (colm % 2 == 0) {
+
+	//				cout << previousNum + minusCounter << " ";
+
+	//				previousNum += minusCounter;
+	//			}
+	//			else
+	//			{
+
+	//				cout << previousNum + plusCounter << " ";
+
+	//				previousNum += plusCounter;
+	//			}
+	//		}
+	//	}
+
+	//	minusCounter -= 2;
+	//	plusCounter += 2;
+
+	//	cout << "\n";
+	//}
+
+	// B)
+
+	/*int n;
+	cin >> n;
+
+	for (int row = 1; row <= n; row++)
+	{
+		if (row % 2 != 0) {
+
+			for (int left = (row * n) - n + 1; left <= row * n; left++)
+			{
+
+				cout << left << " ";
+			}
+
+			cout << "\n";
+		}
+		else {
+
+			for (int right = row * n; right >= (row * n) - n + 1; right--)
+			{
+
+				cout << right << " ";
+			}
+
+			cout << "\n";
+		}
 	}*/
 
 }
