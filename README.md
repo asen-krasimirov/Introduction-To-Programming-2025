@@ -24,7 +24,7 @@
 
 Радослав Пеев:
 - имейл - peevradoslav7@gmail.com
-- Facebook - Radoslab Peev
+- Facebook - Radoslav Peev
 
 Асен Красимиров: 
 - имейл - krasimirov.asen63@gmail.com
