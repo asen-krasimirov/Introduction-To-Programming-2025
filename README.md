@@ -10,6 +10,7 @@
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar04">Семинар 04</a> - Функции. Oператор return.
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar05">Семинар 05</a> - Функции - допълнение. Референции. l-value & r-value.
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar06">Семинар 06</a> - Масиви
+  - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar07">Семинар 07</a> - Многомерни Масиви
 </pre>
 
 > [!NOTE]
