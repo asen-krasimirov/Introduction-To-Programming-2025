@@ -1,15 +1,17 @@
-// 5.1. Решение
+// 5.1 Решение
 
 #include <iostream>
 
 using namespace std;
 
-void find_saddle_point(int matrix[6][6], int rows, int cols) {
-    for (int i = 0; i < rows; ++i) {
+const int n = 6;
+
+void find_saddle_point(int matrix[n][n]) {
+    for (int i = 0; i < n; ++i) {
         int max_in_row = matrix[i][0];
         int col_index = 0;
 
-        for (int j = 1; j < cols; ++j) {
+        for (int j = 1; j < n; ++j) {
             if (matrix[i][j] > max_in_row) {
                 max_in_row = matrix[i][j];
                 col_index = j;
@@ -18,7 +20,7 @@ void find_saddle_point(int matrix[6][6], int rows, int cols) {
 
         bool is_min_in_col = true;
 
-        for (int k = 0; k < rows; ++k) {
+        for (int k = 0; k < n; ++k) {
             if (matrix[k][col_index] < max_in_row) {
                 is_min_in_col = false;
                 break;
@@ -35,16 +37,15 @@ void find_saddle_point(int matrix[6][6], int rows, int cols) {
 }
 
 int main() {
-    const int rows = 6, cols = 6;
-    int matrix[rows][cols];
+    int matrix[n][n];
 
-    for (int i = 0; i < rows; ++i) {
-        for (int j = 0; j < cols; ++j) {
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < n; ++j) {
             cin >> matrix[i][j];
         }
     }
 
-    find_saddle_point(matrix, rows, cols);
+    find_saddle_point(matrix);
 
     return 0;
 }
