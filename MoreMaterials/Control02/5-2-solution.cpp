@@ -6,7 +6,7 @@ using namespace std;
 
 const int n = 4;
 
-void custom_order_traversal(int matrix[n][n]) {
+void custom_order_traversal(const int matrix[n][n]) {
     for (int j = 0; j < n; j++) {
         cout << matrix[0][j] << " ";
     }
