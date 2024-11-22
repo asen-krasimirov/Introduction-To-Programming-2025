@@ -6,7 +6,7 @@ using namespace std;
 
 const int n = 6;
 
-void find_saddle_point(int matrix[n][n]) {
+void find_saddle_point(const int matrix[n][n]) {
     for (int i = 0; i < n; ++i) {
         int max_in_row = matrix[i][0];
         int col_index = 0;
