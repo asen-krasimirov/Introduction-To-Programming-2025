@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D765EA58-F426-4FD2-9F30-60A935555EC3}|\u0417\u0430\u0434\u0430\u0447\u0430 12\\\u0417\u0430\u0434\u0430\u0447\u0430 12.vcxproj|C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 12\\\u0417\u0430\u0434\u0430\u0447\u0430 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D765EA58-F426-4FD2-9F30-60A935555EC3}|\u0417\u0430\u0434\u0430\u0447\u0430 12\\\u0417\u0430\u0434\u0430\u0447\u0430 12.vcxproj|solutionrelative:\u0417\u0430\u0434\u0430\u0447\u0430 12\\\u0417\u0430\u0434\u0430\u0447\u0430 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E9E0BD-88A2-482F-99DE-19D29A90FCA9}|\u0417\u0430\u0434\u0430\u0447\u0430 11\\\u0417\u0430\u0434\u0430\u0447\u0430 11.vcxproj|C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 11\\\u0417\u0430\u0434\u0430\u0447\u0430 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E9E0BD-88A2-482F-99DE-19D29A90FCA9}|\u0417\u0430\u0434\u0430\u0447\u0430 11\\\u0417\u0430\u0434\u0430\u0447\u0430 11.vcxproj|solutionrelative:\u0417\u0430\u0434\u0430\u0447\u0430 11\\\u0417\u0430\u0434\u0430\u0447\u0430 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F302C1-0474-47DC-8315-119FC26EBF9D}|\u0417\u0430\u0434\u0430\u0447\u0430 8\\\u0417\u0430\u0434\u0430\u0447\u0430 8.vcxproj|C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 8\\\u0417\u0430\u0434\u0430\u0447\u0430 8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02F302C1-0474-47DC-8315-119FC26EBF9D}|\u0417\u0430\u0434\u0430\u0447\u0430 8\\\u0417\u0430\u0434\u0430\u0447\u0430 8.vcxproj|solutionrelative:\u0417\u0430\u0434\u0430\u0447\u0430 8\\\u0417\u0430\u0434\u0430\u0447\u0430 8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B2BF83-5721-4D93-BE22-24FC44D0DDAA}|\u0417\u0430\u0434\u0430\u0447\u0430 10\\\u0417\u0430\u0434\u0430\u0447\u0430 10.vcxproj|C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 10\\\u0417\u0430\u0434\u0430\u0447\u0430 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98B2BF83-5721-4D93-BE22-24FC44D0DDAA}|\u0417\u0430\u0434\u0430\u0447\u0430 10\\\u0417\u0430\u0434\u0430\u0447\u0430 10.vcxproj|solutionrelative:\u0417\u0430\u0434\u0430\u0447\u0430 10\\\u0417\u0430\u0434\u0430\u0447\u0430 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0417\u0430\u0434\u0430\u0447\u0430 12.cpp",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 12\\\u0417\u0430\u0434\u0430\u0447\u0430 12.cpp",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u0447\u0430 12\\\u0417\u0430\u0434\u0430\u0447\u0430 12.cpp",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 12\\\u0417\u0430\u0434\u0430\u0447\u0430 12.cpp",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u0447\u0430 12\\\u0417\u0430\u0434\u0430\u0447\u0430 12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:58:39.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0417\u0430\u0434\u0430\u0447\u0430 11.cpp",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 11\\\u0417\u0430\u0434\u0430\u0447\u0430 11.cpp",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u0447\u0430 11\\\u0417\u0430\u0434\u0430\u0447\u0430 11.cpp",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 11\\\u0417\u0430\u0434\u0430\u0447\u0430 11.cpp",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u0447\u0430 11\\\u0417\u0430\u0434\u0430\u0447\u0430 11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:48:36.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u0417\u0430\u0434\u0430\u0447\u0430 10.cpp",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 10\\\u0417\u0430\u0434\u0430\u0447\u0430 10.cpp",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u0447\u0430 10\\\u0417\u0430\u0434\u0430\u0447\u0430 10.cpp",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 10\\\u0417\u0430\u0434\u0430\u0447\u0430 10.cpp",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u0447\u0430 10\\\u0417\u0430\u0434\u0430\u0447\u0430 10.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:45:04.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u0417\u0430\u0434\u0430\u0447\u0430 8.cpp",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 8\\\u0417\u0430\u0434\u0430\u0447\u0430 8.cpp",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u0447\u0430 8\\\u0417\u0430\u0434\u0430\u0447\u0430 8.cpp",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\Introduction-To-Programming-2025\\\u0423\u041F \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440 2\\\u0417\u0430\u0434\u0430\u0447\u0430 8\\\u0417\u0430\u0434\u0430\u0447\u0430 8.cpp",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u0447\u0430 8\\\u0417\u0430\u0434\u0430\u0447\u0430 8.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T12:11:09.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
