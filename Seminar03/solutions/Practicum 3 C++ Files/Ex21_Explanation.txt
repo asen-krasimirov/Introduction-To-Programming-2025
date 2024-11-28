@@ -1,0 +1,76 @@
+The carpet consists of 4 main parts
+
+ ___________________________________________________
+|          |                                        |
+| #######  |  -> Beginning                          |
+|----------|----------------------------------------|
+| #12345#  |                                        |
+| #23451#  |                                        |
+| #34512#  |  -> First Half                         |
+| #45123#  |                                        |
+| #51234#  |                                        |
+|----------|----------------------------------------|
+| #  X  #  |  -> Middle                             |
+|----------|----------------------------------------|
+| #51234#  |                                        |
+| #45123#  |                                        |
+| #34512#  |  -> Second Half                        |
+| #23451#  |                                        |
+| #12345#  |                                        |
+|----------|----------------------------------------|
+| #######  |  -> End                                |
+|          |                                        |
+|__________|________________________________________|
+
+
+For all parts, we need to figure out the length of the carpet.
+
+We have # in the beginning and end.              +2
+We have the numbers from 1 to n in the carpet   +sum_of_total_digits
+
+
+The Beginning:
+
+    Displays (sum_of_total_digits + 2) #s
+
+The First Half:
+
+    Start with #
+
+    Display all numbers in ascending order, starting with the row number.  //row starts from 1
+
+        Note: If a number goes above n - change it to 1
+    
+    End with #
+
+The Middle:
+
+    Determine whether there should be X or XX
+
+        Even sum_of_total_digits -> XX
+
+        Not even sum_of_total_digits -> X
+    
+    Start with #
+
+    Display spaces until index reaches sum_of_total_digits/2
+
+    Display X or XX accordingly
+
+    Display spaces until the end of the carpet
+
+    End with #
+
+The Second Half:
+
+    Start with #
+
+    Display all numbers in descending order, starting with (n-row) number.  // row starts from 0 
+
+        Note: If a number goes to 0, change it to n;
+    
+    End with #
+
+End:
+
+    Display (sum_of_total_digits + 2) #s
