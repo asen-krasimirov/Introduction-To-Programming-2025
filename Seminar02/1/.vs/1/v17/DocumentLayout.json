@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonora\\source\\repos\\1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8FAA2B-F7EF-4122-8D7C-BE0D7C0B6D30}|1\\1.vcxproj|C:\\Users\\Leonora\\source\\repos\\1\\1\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F8FAA2B-F7EF-4122-8D7C-BE0D7C0B6D30}|1\\1.vcxproj|solutionrelative:1\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.cpp",
+              "DocumentMoniker": "C:\\Users\\Leonora\\source\\repos\\1\\1\\1.cpp",
+              "RelativeDocumentMoniker": "1\\1.cpp",
+              "ToolTip": "C:\\Users\\Leonora\\source\\repos\\1\\1\\1.cpp",
+              "RelativeToolTip": "1\\1.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T15:39:36.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
