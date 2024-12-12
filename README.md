@@ -11,6 +11,7 @@
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar05">Семинар 05</a> - Функции - допълнение. Референции. l-value & r-value.
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar06">Семинар 06</a> - Масиви
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar07">Семинар 07</a> - Многомерни Масиви
+  - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar08">Семинар 08</a> - Бройни системи и побитови операции
 </pre>
 
 > [!NOTE]
