@@ -12,7 +12,9 @@
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar06">Семинар 06</a> - Масиви
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar07">Семинар 07</a> - Многомерни Масиви
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar08">Семинар 08</a> - Бройни системи и побитови операции
-  - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar08">Семинар 09</a> - Указатели и символни низове
+  - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar09">Семинар 09</a> - Указатели. Памет. Адресна аритметика.
+  - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar10">Семинар 10</a> - Символни низове(стрингове). Основни операции с низове.
+
 <!--   - <а href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar10">Семинар 10</а> - Указатели -->
 </pre>
 
