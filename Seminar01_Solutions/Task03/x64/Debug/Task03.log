@@ -1,0 +1,4 @@
+﻿  Task03.cpp
+C:\Users\Ivan\source\repos\Introduction-To-Programming-2025\Seminar01_Solutions\Task03\Task03.cpp(7,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ivan\source\repos\Introduction-To-Programming-2025\Seminar01_Solutions\Task03\Task03.cpp(8,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Task03.vcxproj -> C:\Users\Ivan\source\repos\Introduction-To-Programming-2025\Seminar01_Solutions\x64\Debug\Task03.exe

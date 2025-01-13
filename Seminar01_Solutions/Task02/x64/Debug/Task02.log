@@ -1,0 +1,3 @@
+﻿  Task02.cpp
+C:\Users\Ivan\source\repos\Introduction-To-Programming-2025\Seminar01_Solutions\Task02\Task02.cpp(5,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Task02.vcxproj -> C:\Users\Ivan\source\repos\Introduction-To-Programming-2025\Seminar01_Solutions\x64\Debug\Task02.exe
