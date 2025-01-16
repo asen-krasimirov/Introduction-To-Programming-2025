@@ -1,0 +1,43 @@
+This solution is universal and doesn't break when using double, triple, or more digit numbers,
+to the point that the terminal might break
+
+    1 _ _           _ _ _ _                                             _ _ _
+      |                |                                                  |
+      -> pair          ->|Lets call a pair the symbols                    -> An empty pair is filled only with spacers
+                         |that are needed to display the current
+                         |number and the space before the next pair.
+     
+Since double or more-digit numbers use more than 1 symbol, the number of symbol spaces is calculated accordingly
+    
+Between 2 numbers, the space needs to be at least 1 symbol, so a pair consists of
+(1 + max_digits) symbol spaces
+    
+There are n pairs in the upper-left half of the bow tie.
+The same goes for the upper-right, lower-left, and the lower-right halves.
+    
+So, ignoring the middle part ( the dashes ), there are 2*n pairs in a row
+That means we need to fill (2*n - 2*index) empty pairs to go to the other side of the bow tie and reverse the display
+    
+Example:
+index = 1 , n = 3
+1_ __ __ __ __ _1
+...
+    
+And to complete it, we add the middle part consisting of n symbols.
+    
+Example:
+index = 1 , n = 3
+1_ ___ __ __ __ __ _1
+...
+    
+The middle row doesn't need empty pairs - just the middle part (with the dashes this time).
+    
+    
+Complete Example:
+1_ ___ __ __ __ __ _1
+1_ 2_ ___ __ __ _2 _1
+1_ 2_ 3_ --- _3 _2 _1
+1_ 2_ ___ __ __ _2 _1
+1_ ___ __ __ __ __ _1
+    
+    
