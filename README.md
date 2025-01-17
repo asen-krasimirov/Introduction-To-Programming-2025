@@ -14,7 +14,8 @@
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar08">Семинар 08</a> - Бройни системи и побитови операции
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar09">Семинар 09</a> - Указатели. Памет. Адресна аритметика.
   - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar10">Семинар 10</a> - Символни низове(стрингове). Основни операции с низове.
-
+  - <a href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar11">Семинар 11</a> - Динамична памет
+  
 <!--   - <а href="https://github.com/asen-krasimirov/Introduction-To-Programming-2025/tree/main/Seminar10">Семинар 10</а> - Указатели -->
 </pre>
 
