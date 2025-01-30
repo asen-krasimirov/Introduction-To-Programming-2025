@@ -121,7 +121,7 @@ using namespace std;
 	{
 		for (int i = 0; i < n; i++)
 		{
-			std::cout << i << " ";
+			std::cout << s << " ";
 		}
 	}
 	/*int main()
